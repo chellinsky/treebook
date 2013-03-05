@@ -17,5 +17,9 @@ body {
 }
 
 .alert {
-	margin-top: 10px;
+	//margin-top: 20px;
+}
+
+.main-body-container {
+	margin-top: 20px;
 }
