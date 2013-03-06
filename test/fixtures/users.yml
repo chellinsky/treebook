@@ -4,3 +4,10 @@ andrew:
   email: "andrew@chellinsky.com"
   profile_name: "chellinsky"
   encrypted_password: "password"
+
+jim:
+  first_name: "Jim"
+  last_name: "Smith"
+  email: "jim@chellinsky.com"
+  profile_name: "jimtheman"
+  encrypted_password: "password"
