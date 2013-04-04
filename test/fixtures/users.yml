@@ -11,3 +11,9 @@ jim:
   email: "jim@chellinsky.com"
   profile_name: "jimtheman"
   encrypted_password: "password"
+
+mtf:
+  first_name: "Mike"
+  last_name: "Frog"
+  email: "mtf@tree.com"
+  encrypted_password: "password"
